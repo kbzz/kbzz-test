@@ -8,4 +8,9 @@ class Test
     {
         echo 'hello world';
     }
+
+    public static function Hi()
+    {
+        echo '第二次提交';
+    }
 }
