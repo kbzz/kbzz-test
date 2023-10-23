@@ -1,0 +1,21 @@
+{
+  "name": "kbzz/test",
+  "description": "测试的composer包",
+  "type": "project",
+  "authors": [
+    {
+      "name": "kbzz",
+      "email": "463661663@qq.com"
+    }
+  ],
+  "require": {
+    "php": "^7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Kbzz\\Test\\": "src/"
+    }
+  },
+  "minimum-stability": "dev"
+}
+
