@@ -1,2 +1,2 @@
 # kbzz-test
-测试composer
+这是一个composer测试包
