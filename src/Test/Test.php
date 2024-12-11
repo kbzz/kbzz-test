@@ -11,6 +11,6 @@ class Test
 
     public static function Hi()
     {
-        echo '第二次提交';
+        echo '第三次提交';
     }
 }
